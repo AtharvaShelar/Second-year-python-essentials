@@ -1,4 +1,4 @@
-#assignment 5
+# assignment 5
 n = int(input("Enter number of students: "))
 total = 0
 
